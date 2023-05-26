@@ -1,4 +1,3 @@
-import './assets/index.css'
 import { Grommet } from 'grommet'
 
 const theme = {
